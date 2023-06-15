@@ -28,7 +28,3 @@ A simple weather application built using Tkinter. It allows users to retrieve we
 2. Press Enter or click the "Get Weather" button to fetch the weather information.
 3. The weather condition, temperature, minimum and maximum temperature, pressure, humidity, wind speed, sunrise, and sunset will be displayed.
 4. To clear the displayed weather information, click the "Clear" button.
-
-## License
-
-This project is licensed under the MIT License.
